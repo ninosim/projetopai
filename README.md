@@ -21,10 +21,10 @@ O projeto tem como o objetivo a criação de um sistema eletrônico para o PAI (
 ## Instalação
 1. Para visualizar o site, basta abrir o arquivo INDEX.HTML.
 
-2. PARA FAZER LOGIN digitar utilizar:
+2. Para fazer login utilizar:
 
-   usuário: admin@admin.com
-   senha: 1234
+   **Usuário:** admin@admin.com
+   **Senha:** 1234
 
 Link para o site: [Projeto PAI](https://aranha1975.github.io/)
 
