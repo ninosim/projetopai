@@ -8,17 +8,15 @@ O projeto tem como o objetivo a criação de um sistema eletrônico para o PAI (
 * [Minutas das Reuniões](https://docs.google.com/document/d/1brs21W-Ulmum2vwUS1kMsI_fDc20mn3v5z5bthJPKyo/edit?tab=t.0)
 
 ## Linguagens utilizadas
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Ferramentas utilizadas
-VScode:
-
-GitHub:
-
-Figma:
-
+* VS Code
+* GitHub
+* Figma
+* Trello
 
 ## Instalação
 1. Para visualizar o site, basta abrir o arquivo INDEX.HTML.
@@ -48,12 +46,8 @@ Link para o site: [Projeto PAI](https://aranha1975.github.io/)
 
 
 ## Equipe:
-Nino Xavier Simas 
-
-Camilly Silva Venancio
-
-Ellen Nóbrega
-
-Marcio Aranha
-
-Lucas Fabricio
+* Nino Xavier Simas 
+* Camilly Silva Venancio
+* Ellen Nóbrega
+* Márcio Aranha
+* Lucas Fabrício
