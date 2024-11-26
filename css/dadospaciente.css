@@ -81,6 +81,7 @@ fieldset legend {
 .content label {
     display: block;
     margin: 10px 0 5px;
+    
 }
 
 .content input[type="checkbox"],
@@ -219,6 +220,47 @@ fieldset legend {
     border-radius: 10px;
     background-color: white;
 }
+.content label {
+    display: block;
+    margin-bottom: 5px; /* Reduz o espaçamento entre o label e o campo */
+    margin-top: 40px;
+    font-weight: bold; /* Opcional: Destaque para os textos dos labels */
+    
+    
+}
+
+.content input[type="text"],
+.content input[type="number"],
+.content select {
+    width: 100%; /* Define a largura uniforme para todos os campos */
+    max-width: 400px; /* Limita a largura em telas maiores */
+    box-sizing: border-box; /* Inclui o padding dentro da largura total */
+    padding: 5px; /* Adiciona um espaço interno nos campos */
+    border-radius: 5px; /* Deixa as bordas arredondadas */
+    border: 1px solid #ccc; /* Adiciona uma borda leve */
+    
+}
+
+.content input[type="text"]:focus,
+.content input[type="number"]:focus,
+.content select:focus {
+    border-color: #d32f2f; /* Destaque na borda ao focar */
+    outline: none; /* Remove o contorno padrão */
+}
+
+.content form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os campos */
+    
+    
+}
+
+.content form {
+    margin-bottom: 40px; /* Adiciona espaço entre o formulário e os botões */
+}
+
+
 
 @media (max-width: 700px) {
     .container {
@@ -251,6 +293,7 @@ fieldset legend {
     .content .buttons button {
         padding: 8px 16px; /* Reduz o tamanho dos botões */
         font-size: 14px; /* Diminui o tamanho da fonte dos botões */
+        ;
     }
     .input-cell {
         font-size: 10px; /* Reduz o tamanho da fonte para dispositivos móveis */
